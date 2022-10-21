@@ -26,4 +26,5 @@ Its main function is in Detect_Asterisk_TPL.py and one supporting function: chec
 Its main function is in Detect_Emojicon_TPL.py and two supporting functions: check_emoji.py (detect emoji pattern), and check_emoticon.py (detect emoticon pattern and has its own supporting function block_emoticon.py to set restriction on what detected emoticon to count) 
 
 - Detect_Formatting is a function module that detects formatting 
-![image](https://user-images.githubusercontent.com/104027457/197245749-4ad8e8d7-6351-499c-87eb-ccb5e12fbe98.png)
+
+
